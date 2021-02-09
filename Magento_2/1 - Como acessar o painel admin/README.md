@@ -20,4 +20,4 @@
 
 4 -> Pronto você já está no painel admin !
 
-Dúvidas consulte o dept. de suporte
+Dúvidas, consulte o dept. de suporte !
