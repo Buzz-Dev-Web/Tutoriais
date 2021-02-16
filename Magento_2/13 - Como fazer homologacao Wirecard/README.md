@@ -1,4 +1,4 @@
-# Como autorizar o Wirecard no painel Magento 2
+# Como autorizar o Wirecard no painel Magento 2 (até 2.3.6)
 
 ## Requisitos:
 
@@ -34,4 +34,3 @@
 
 
 Dúvidas, entre em contato com o departamento de desenvolvimento !
-
