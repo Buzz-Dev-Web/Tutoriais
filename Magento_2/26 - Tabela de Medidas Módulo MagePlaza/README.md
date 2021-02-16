@@ -104,13 +104,11 @@ Aqui é a etapa mais importante (visualmente), pois referencia onde a tabela de 
 
 15 -> Pronto, você configurou a tabela de medidas.
 
-Agora você deve acessar o cadastro do produto e selecionar a opção da tabela a qual você vinculou no atributo na etapa 10. Caso tenha mais tabelas repita o processo desde a etapa 7, desde que você já tenha previamente criado as opções dos atributos, caso não tenha criado as opções das tabelas, retorne AO GERENCIAR OPCOES da etapa 3 e insira novas opções.
+Agora você deve acessar o cadastro do produto e selecionar a opção da tabela a qual você vinculou no atributo na etapa 10. Caso tenha mais tabelas repita o processo desde a etapa 7, desde que você já tenha previamente criado as opções dos atributos. Caso não tenha criado as opções dos atributos, retorne AO GERENCIAR OPCOES da etapa 3 e insira novas opções.
 
 16 -> Resultado esperado:
 
 ![Resultado esperado](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/26%20-%20Tabela%20de%20Medidas%20M%C3%B3dulo%20MagePlaza/images/8-resultado-tabela.png)
 
+
 Dúvidas consulte o dept. de desenvolvimento.
-
-
-https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/26%20-%20Tabela%20de%20Medidas%20M%C3%B3dulo%20MagePlaza/images/adicionar-regra.png
