@@ -18,4 +18,6 @@
 
 5 -> Você voltara para a página do produto, role a tela para cima e clique em salvar;
 
-## Terminado de configurar, vá até o frontend do site no produto que você escolheu e veja se os produtos relacionados estão lá.
+Terminado de configurar, vá até o frontend do site no produto que você escolheu e veja se os produtos relacionados estão lá.
+
+Dúvidas? Entre em contato com o departamento de suporte.
