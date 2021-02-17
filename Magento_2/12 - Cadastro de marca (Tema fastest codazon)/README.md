@@ -8,7 +8,7 @@ Entenda que as marcas são atributos vinculados ao produto no cadastro, para que
 
 2 -> Utilize o filtro da 2ª coluna buscando por MARCAS e clique para abrir o atributo;
 
-(![cadastro de marcas](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/12%20-%20Cadastro%20de%20marca%20(Tema%20fastest%20codazon)/images/imagem2.png)
+![cadastro de marcas](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/12%20-%20Cadastro%20de%20marca%20(Tema%20fastest%20codazon)/images/imagem2.png)
 
 3 -> Em Gerenciar Opções, clique em "Adicionar opção" (Aqui você irá adicionar todas as marcas);
 
