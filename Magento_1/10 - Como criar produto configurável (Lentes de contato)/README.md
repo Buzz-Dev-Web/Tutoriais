@@ -6,23 +6,23 @@ Na primeira parte desse tutorial iremos mostrar como criar um produto configurá
 
 1 -> No painel do Magento abra CATÁLOGO > GERENCIAR PRODUTOS, clique em CRIAR PRODUTO no canto superior direito da página;
 
-![produto configurável](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_1/10%20-%20Como%20criar%20produto%20configurável/images/imagem1.png)
+![produto configurável](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_1/10%20-%20Como%20criar%20produto%20configurável%20(Lentes%20de%20contato)/images/imagem1.png)
 
 2 -> Selecione LENTES DE CONTATO como opção do conjunto de atributos e em tipo de produto, selecione a opção Produto Configurável e clique em Avançar;
 
-![produto configurável](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_1/10%20-%20Como%20criar%20produto%20configurável/images/imagem2.png)
+![produto configurável](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_1/10%20-%20Como%20criar%20produto%20configurável%20(Lentes%20de%20contato)/images/imagem1.png)
 
 3 -> Selecione os atributos que irão ser usados no produto e clique em Avançar, neste exemplo usaremos todos;
 
-![produto configurável](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_1/10%20-%20Como%20criar%20produto%20configurável/images/imagem3.png)
+![produto configurável](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_1/10%20-%20Como%20criar%20produto%20configurável%20(Lentes%20de%20contato)/images/imagem1.png)
 
 4 -> Nessa etapa segue o mesmo padrão de criação de produto configurável normal, preencha os dados do produto conforme sua necessidade;
 
-![produto configurável](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_1/10%20-%20Como%20criar%20produto%20configurável/images/imagem4.png)
+![produto configurável](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_1/10%20-%20Como%20criar%20produto%20configurável%20(Lentes%20de%20contato)/images/imagem1.png)
 
 5 -> Recomenda-se que antes de continuar, você clique em "SALVAR E CONTINUAR" localizado no canto superior direito da página, feito isso clique em PRODUTOS ASSOCIADOS canto superior esquerdo;
 
-![produto configurável](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_1/10%20-%20Como%20criar%20produto%20configurável/images/imagem5.png)
+![produto configurável](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_1/10%20-%20Como%20criar%20produto%20configurável%20(Lentes%20de%20contato)/images/imagem1.png)
 
 6 -> Aqui você terá que preencher os dados conforme segue:
 
@@ -39,7 +39,7 @@ Uma vez preenchido essas informações ficam como padrão para as demais variaç
 
 Serão as opções que você deve selecionar para que no frontend o cliente compre o produto conforme sua necessidade, neste processo, você terá que adicionar uma opção por vez;
 
-![produto configurável](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_1/10%20-%20Como%20criar%20produto%20configurável/images/imagem6.png)
+![produto configurável](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_1/10%20-%20Como%20criar%20produto%20configurável%20(Lentes%20de%20contato)/images/imagem1.png)
 
 Após terminar de adicionar as opções clique em SALVAR (canto superior direito).
 
@@ -51,7 +51,7 @@ Após terminar de adicionar as opções clique em SALVAR (canto superior direito
 
 1 -> No painel do Magento abra CATÁLOGO > ATRIBUTOS > GERENCIAR ATRIBUTOS;
 
-![produto configurável](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_1/10%20-%20Como%20criar%20produto%20configurável/images/imagem7.png)
+![produto configurável](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_1/10%20-%20Como%20criar%20produto%20configurável%20(Lentes%20de%20contato)/images/imagem1.png)
 
 2 -> Os atributos usados na parte 1 são esses:
 
@@ -61,11 +61,11 @@ Após terminar de adicionar as opções clique em SALVAR (canto superior direito
 
 Pesquise por eles pelo filtro "CÓDIGO DO ATRIBUTO" e clique em Filtrar
 
-![produto configurável](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_1/10%20-%20Como%20criar%20produto%20configurável/images/imagem8.png)
+![produto configurável](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_1/10%20-%20Como%20criar%20produto%20configurável%20(Lentes%20de%20contato)/images/imagem1.png)
 
 3 -> Escolha qual você deseja incluir a opção e clique em editar, no atributo clique em GERENCIAR DESCRIÇÃO/OPÇÕES localizado na barra lateral esquerda;
 
-![produto configurável](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_1/10%20-%20Como%20criar%20produto%20configurável/images/imagem9.png)
+![produto configurável](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_1/10%20-%20Como%20criar%20produto%20configurável%20(Lentes%20de%20contato)/images/imagem1.png)
 
 4 -> Clique na opção "ADICIONAR OPÇÃO" e insira a opção desejada, 
 
