@@ -14,15 +14,15 @@
 
 3 -> No painel Magento, vá em GERENCIAR MARKETPLACE > GERENCIAR VENDEDORES;
 
-![WEBKULL](imagem1)
+![WEBKULL](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/15%20-%20Liberando%20e%20aprovando%20vendedor%20WebKull/images/imagem1.png)
 
 4 -> Apos clicar sob esta opção você será redirecionado para a seguinte tela:
 
-![WEBKULL](imagem2)
+![WEBKULL](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/15%20-%20Liberando%20e%20aprovando%20vendedor%20WebKull/images/imagem2.png)
 
 5 -> Selecione o vendedor que você deseja efetuar a liberação, clique em AÇÕES > APROVAR;
 
-![WEBKULL](imagem3)
+![WEBKULL](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/15%20-%20Liberando%20e%20aprovando%20vendedor%20WebKull/images/imagem3.png)
 
 6 -> Abrirá um popup na tela solicitando sua confirmação, clique em OK;
 
