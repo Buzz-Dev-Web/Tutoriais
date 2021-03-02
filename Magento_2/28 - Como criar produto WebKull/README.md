@@ -4,7 +4,7 @@
 
 2 -> Depois de feito o login, no painel magento abra PRODUTOS > ADICIONAR PRODUTOS;
 
-![webkull](imagem1.png)
+![webkull](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/28%20-%20Como%20criar%20produto%20WebKull/images/imagem1.png)
 
  3 -> Nessa etapa preeencha todos os campos obrigatórios marcados com um * vermelho seguindo a ordem:
  * Selecione as categorias as quais o produto pertencerá;
@@ -18,7 +18,7 @@
  * As medidas do produto (será por essas medidas que será calculado o preço do frete)
  * Por fim adicione as imagens do produto;
 
- ![webkull](imagem2.png)
+ ![webkull](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/28%20-%20Como%20criar%20produto%20WebKull/images/imagem2.png)
 
  4 -> Após ter preenchido todos os campos, clique em SALVAR no canto superior direito da tela e pronto
 
