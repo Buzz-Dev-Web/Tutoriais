@@ -1,4 +1,4 @@
-# Como criar um produto no modulo WebKull
+# Como criar um produto no modulo WebKull - Visão vendedor
 
 1 -> Primeiro o vendedor terá que fazer login no painel admistrativo;
 
@@ -7,6 +7,7 @@
 ![webkull](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/28%20-%20Como%20criar%20produto%20WebKull/images/imagem1.png)
 
  3 -> Nessa etapa preeencha todos os campos obrigatórios marcados com * vermelho seguindo a ordem:
+
  * Selecione as categorias as quais o produto pertencerá;
  * Nome do produto;
  * Descrição do produto;
@@ -20,8 +21,10 @@
 
  ![webkull](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/28%20-%20Como%20criar%20produto%20WebKull/images/imagem2.png)
 
- 4 -> Após ter preenchido todos os campos, clique em SALVAR no canto superior direito da tela e pronto
+ 4 -> Após ter preenchido todos os campos, clique em SALVAR no canto superior direito.
 
- ## Dúvidas? Entre em contato com o departamento de suporte
+ 5 -> O produto estará disponível para a busca ou na visualização do catálogo, caso não apareça imediatamente é interessante consultar se já passou pela rotina de reindexação (agendado via CRON automaticamente).
+
+ ## Dúvidas? Entre em contato com o departamento de suporte.
 
 
