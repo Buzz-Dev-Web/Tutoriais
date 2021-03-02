@@ -6,7 +6,7 @@
 
 ![webkull](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/28%20-%20Como%20criar%20produto%20WebKull/images/imagem1.png)
 
- 3 -> Nessa etapa preeencha todos os campos obrigatórios marcados com um * vermelho seguindo a ordem:
+ 3 -> Nessa etapa preeencha todos os campos obrigatórios marcados com * vermelho seguindo a ordem:
  * Selecione as categorias as quais o produto pertencerá;
  * Nome do produto;
  * Descrição do produto;
