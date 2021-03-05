@@ -4,11 +4,11 @@
 
 2 -> Estando nas configurações do magento altere a visão da loja para MAIN WEBSITE no canto supeior esquerdo;
 
-![webmatrix](imagem1.png)
+![webmatrix](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/31%20-%20Como%20inserir%20valor%20de%20frene%20WebMatrix/images/imagem1.png)
 
 3 -> Feito isso, pela barra lateral das condigurações vá para VENDAS > METODO DE ENVIO e procure pela opção chamada de WebShopApps Matrix Rate;
 
-![webmatrix](imagem2.png)
+![webmatrix](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/31%20-%20Como%20inserir%20valor%20de%20frene%20WebMatrix/images/imagem2.png)
 
 4 -> Nesta área selecione a opção IMPORTAR e selecione o arquivo para importar, feito isso basta clicar em GRAVAR no canto superior direito
 
