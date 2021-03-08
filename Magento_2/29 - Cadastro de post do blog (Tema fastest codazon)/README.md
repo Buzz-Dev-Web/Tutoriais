@@ -12,6 +12,8 @@
 
 ![POST](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/29%20-%20Cadastro%20de%20post%20do%20blog%20(Tema%20fastest%20codazon)/images/imagem3.jpg)
 
+IMPORTANTE: A categoria principal (geralmente nome da empresa) é a categoria responsável por exibir as postagens na home page, caso seu layout possua este recurso de exibição.
+
 4 -> Depois de ter preenchidas as áres do passo 3, desça um pouco a tela e abra CONFIGURAÇÕES DE EXIBIÇÃO para adcionar a imagem destaque do Post. Atenção: para melhor visualização, as imagens inseridas aqui devem ser de resolução 718 x 718 pixels;
 
 ![POST](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/29%20-%20Cadastro%20de%20post%20do%20blog%20(Tema%20fastest%20codazon)/images/imagem4.jpg)
