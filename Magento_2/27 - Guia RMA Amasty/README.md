@@ -30,4 +30,6 @@
 
 ![RMA](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/27%20-%20Guia%20RMA%20Amasty/images/image7.png)
 
-## Dúvidas? Entre em contato com o departamento de suporte.
+## Dúvida/Suporte:
+
+Em caso de dúvidas entre em contato com o dept de suporte.
