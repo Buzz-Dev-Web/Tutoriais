@@ -8,7 +8,7 @@
 
 2 -> O cliente ao selecionar o produto irá abrir um pequeno menu no lado direito da tela onde ele selecionará o Motivo da Devolução, Condição do Item e Resolução de Devolução;
 
-![RMA](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/27%20-%20Guia%20RMA%20Amasty/images/imagem2.png)
+![RMA](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/27%20-%20Guia%20RMA%20Amasty/images/image2.png)
 
 ![RMA](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/27%20-%20Guia%20RMA%20Amasty/images/image3.png)
 
