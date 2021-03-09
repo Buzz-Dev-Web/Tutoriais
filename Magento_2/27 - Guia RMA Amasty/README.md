@@ -10,7 +10,7 @@
 
 ![RMA](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/27%20-%20Guia%20RMA%20Amasty/images/imagem2.png)
 
-![RMA](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/27%20-%20Guia%20RMA%20Amasty/images/imagem3.png)
+![RMA](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/27%20-%20Guia%20RMA%20Amasty/images/image3.png)
 
 3 -> O cliente também pode escrever uma mensagem e adicionar imagens de como está o produto;
 
@@ -28,6 +28,6 @@
 
 3 -> Agora você consegue visualizar e alterar o Status RMA, conversar com o cliente pelo bate-papo ver a situação do produto e etc... Assim que termina os procedimentos clique em Salvar no canto superior direito;
 
-![RMA](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/27%20-%20Guia%20RMA%20Amasty/images/imagem7.png)
+![RMA](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/27%20-%20Guia%20RMA%20Amasty/images/image7.png)
 
 ## Dúvidas? Entre em contato com o departamento de suporte.
