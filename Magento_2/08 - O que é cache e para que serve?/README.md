@@ -20,7 +20,7 @@ Primeiramente você precisa saber que efetuar este processo pode causar uma lent
 O Magento possui diferentes caches que servem para otimizar a navegação e usabilidade por parte do usuário, similar ao cache do navegador o Magento também armazena as informações que são mais utilizadas ou facilita que sua leitura seja realizada para otimizar a velocidade de navegação. É interessante entender o que cada um executa para que você otimize a navegação de seu site.
 
 
-![Caches do Magento](https://github.com/Buzz-Dev-Web/Central-do-Frete-Magento-2-/blob/main/images/1-cachemagento.png)
+![Caches do Magento](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/08%20-%20O%20que%20%C3%A9%20cache%20e%20para%20que%20serve%3F/images/1-cachemagento.png)
 
 
 ```
