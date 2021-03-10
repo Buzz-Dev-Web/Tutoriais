@@ -46,6 +46,6 @@ Também conhecidos como Bundle, o Pacote de produtos é uma variação melhorada
 
 Os produtos digitais ou Downloadable Products são opções que permitem ao cliente fazer download de um ou mais arquivos ao serem adquiridos. Os arquivos podem ser enviados para o servidor onde seu Magento está hospedado, ou um URL externo pode ser utilizado. Este tipo de produto é ideal para softwares, e-books, licenças de software e produtos que não exigem entrega física. Inclusive, assim como produtos virtuais, ao fazer uma compra deste tipo de produto, o endereço de entrega não é solicitado pelo Magento.
 
-![produto_digital](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/02%20-%20Tipos%20de%20produto/images/imagem5.png)
+![produto_digital](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/02%20-%20Tipos%20de%20produto/images/imagem6.png)
 
 ## Dúvidas? Entre em contato com o nosso departamento de suporte.
