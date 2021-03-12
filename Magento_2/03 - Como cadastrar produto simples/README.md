@@ -1,6 +1,6 @@
 # Como cadastrar um produto simples
 
-1 -> Entre com seu Login no painel magento e acesse CATÁLOGO > PRODUTOS;
+1 -> Entre com seu Login no painel magento e acesse CATÁLOGO > INVENTÁRIO > PRODUTOS;
 
 ![produto_simples](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/03%20-%20Como%20cadastrar%20produto%20simples/images/image1.png)
 
