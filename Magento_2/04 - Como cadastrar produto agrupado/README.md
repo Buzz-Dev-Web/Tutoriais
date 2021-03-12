@@ -1,7 +1,7 @@
 # Como cadastrar produto agrupado
 
 ## Recomendações
-* Antes de criar o produto agrupado, crie primeiro os produtos simples que faram parte do pacote. Caso tenha dúvidas de como criar um produto simples ou sobre os tipos de produtos, temos tutoriais dispóniveis explicando cada um deles, para que servem e etc.
+* É importante que antes você tenha criado os produtos simples que irão fazer parte do pacote. Caso tenha dúvidas de como criar um produto simples ou sobre os tipos de produtos, temos tutoriais dispóniveis explicando cada um deles, para que servem e etc.
 * Caso você for vender determinado produto apenas no pacote recomendamos que nesse produto especifico você o deixe **Não visivel individualmente** para que ele seja visto apenas no produto agrupado.
 
 1 -> Entre no painel magento usando seu login e abra **CATÁLOGO > INVENTÁRIO > PRODUTOS**;
@@ -12,7 +12,7 @@
 
 ![produto_agrupado](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/04%20-%20Como%20cadastrar%20produto%20agrupado/images/image2.png)
 
-3 -> Agora na criação do produto, preencha as informações necessaŕias seguindo a mesma base da criação do produto simples. Especifique bem o produto em **CONTEÚDO**;
+3 -> Na criação do produto, preencha as informações necessárias seguindo a mesma base da criação do produto simples. Especifique bem o produto em **CONTEÚDO**;
 
 ![produto_agrupado](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/04%20-%20Como%20cadastrar%20produto%20agrupado/images/image3.png)
 
