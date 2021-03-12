@@ -32,7 +32,7 @@
 
 ![produto_agrupado](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/04%20-%20Como%20cadastrar%20produto%20agrupado/images/image7.png)
 
-8 -> No Frontend do site esse é o resultado (lembrando que pode variar por causa do tema instalado);
+8 -> No Frontend do site esse é o resultado (lembrando que pode váriar por causa do tema que está instalado em sua loja);
 
 ![produto_agrupado](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/04%20-%20Como%20cadastrar%20produto%20agrupado/images/image8.png)
 
