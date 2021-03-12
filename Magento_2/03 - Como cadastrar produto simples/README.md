@@ -14,8 +14,8 @@
 
 ![produto_simples](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/03%20-%20Como%20cadastrar%20produto%20simples/images/image4.png)
 
-4 -> Após terminar de preencher todas as informações do produto, clique em Salvar no canto supeior direito.
+4 -> Após terminar de preencher todas as informações do produto, clique em SALVAR no canto superior direito.
 
 ![produto_simples](https://github.com/Buzz-Dev-Web/Tutoriais/blob/master/Magento_2/03%20-%20Como%20cadastrar%20produto%20simples/images/image5.png)
 
-## Dúvidas? Entre em contato com o deportamento de suporte.
+## Dúvidas? Entre em contato com o departamento de suporte.
